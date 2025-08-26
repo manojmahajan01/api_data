@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ashwagandha Capsules",
+      "category": "Immunity",
+      "price": 100,
+      "description": "Herbal Ashwagandha Capsules beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Triphala Powder",
+      "category": "Digestion",
+      "price": 110,
+      "description": "Herbal Triphala Powder beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Neem Tablets",
+      "category": "Skin Care",
+      "price": 120,
+      "description": "Herbal Neem Tablets beneficial for Skin Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Brahmi Syrup",
+      "category": "Hair Care",
+      "price": 130,
+      "description": "Herbal Brahmi Syrup beneficial for Hair Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Tulsi Drops",
+      "category": "Detox",
+      "price": 140,
+      "description": "Herbal Tulsi Drops beneficial for Detox.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "Giloy Juice",
+      "category": "Energy",
+      "price": 150,
+      "description": "Herbal Giloy Juice beneficial for Energy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "name": "Shilajit Resin",
+      "category": "Stress Relief",
+      "price": 160,
+      "description": "Herbal Shilajit Resin beneficial for Stress Relief.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "name": "Chyawanprash",
+      "category": "Weight Loss",
+      "price": 170,
+      "description": "Herbal Chyawanprash beneficial for Weight Loss.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "name": "Moringa Powder",
+      "category": "Immunity",
+      "price": 180,
+      "description": "Herbal Moringa Powder beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "name": "Amla Candy",
+      "category": "Digestion",
+      "price": 190,
+      "description": "Herbal Amla Candy beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 11,
+      "name": "Aloe Vera Gel",
+      "category": "Skin Care",
+      "price": 200,
+      "description": "Herbal Aloe Vera Gel beneficial for Skin Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 12,
+      "name": "Turmeric Capsules",
+      "category": "Hair Care",
+      "price": 210,
+      "description": "Herbal Turmeric Capsules beneficial for Hair Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 13,
+      "name": "Fenugreek Seeds",
+      "category": "Detox",
+      "price": 220,
+      "description": "Herbal Fenugreek Seeds beneficial for Detox.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 14,
+      "name": "Cumin Powder",
+      "category": "Energy",
+      "price": 230,
+      "description": "Herbal Cumin Powder beneficial for Energy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 15,
+      "name": "Fennel Seeds",
+      "category": "Stress Relief",
+      "price": 240,
+      "description": "Herbal Fennel Seeds beneficial for Stress Relief.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 16,
+      "name": "Arjuna Tablets",
+      "category": "Weight Loss",
+      "price": 250,
+      "description": "Herbal Arjuna Tablets beneficial for Weight Loss.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 17,
+      "name": "Gokshura Capsules",
+      "category": "Immunity",
+      "price": 260,
+      "description": "Herbal Gokshura Capsules beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 18,
+      "name": "Himalayan Honey",
+      "category": "Digestion",
+      "price": 270,
+      "description": "Herbal Himalayan Honey beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 19,
+      "name": "Licorice Powder",
+      "category": "Skin Care",
+      "price": 280,
+      "description": "Herbal Licorice Powder beneficial for Skin Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 20,
+      "name": "Cardamom Tea",
+      "category": "Hair Care",
+      "price": 290,
+      "description": "Herbal Cardamom Tea beneficial for Hair Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 21,
+      "name": "Cinnamon Bark",
+      "category": "Detox",
+      "price": 300,
+      "description": "Herbal Cinnamon Bark beneficial for Detox.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 22,
+      "name": "Ginger Powder",
+      "category": "Energy",
+      "price": 310,
+      "description": "Herbal Ginger Powder beneficial for Energy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 23,
+      "name": "Clove Oil",
+      "category": "Stress Relief",
+      "price": 320,
+      "description": "Herbal Clove Oil beneficial for Stress Relief.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 24,
+      "name": "Peppermint Tea",
+      "category": "Weight Loss",
+      "price": 330,
+      "description": "Herbal Peppermint Tea beneficial for Weight Loss.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 25,
+      "name": "Saffron Oil",
+      "category": "Immunity",
+      "price": 340,
+      "description": "Herbal Saffron Oil beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}

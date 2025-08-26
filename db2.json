@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 26,
+      "name": "Bhringraj Oil",
+      "category": "Digestion",
+      "price": 350,
+      "description": "Herbal Bhringraj Oil beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 27,
+      "name": "Hibiscus Powder",
+      "category": "Skin Care",
+      "price": 360,
+      "description": "Herbal Hibiscus Powder beneficial for Skin Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 28,
+      "name": "Karela Juice",
+      "category": "Hair Care",
+      "price": 370,
+      "description": "Herbal Karela Juice beneficial for Hair Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 29,
+      "name": "Jamun Vinegar",
+      "category": "Detox",
+      "price": 380,
+      "description": "Herbal Jamun Vinegar beneficial for Detox.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 30,
+      "name": "Ashoka Bark",
+      "category": "Energy",
+      "price": 390,
+      "description": "Herbal Ashoka Bark beneficial for Energy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 31,
+      "name": "Manjistha Powder",
+      "category": "Stress Relief",
+      "price": 400,
+      "description": "Herbal Manjistha Powder beneficial for Stress Relief.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 32,
+      "name": "Shankhpushpi Syrup",
+      "category": "Weight Loss",
+      "price": 410,
+      "description": "Herbal Shankhpushpi Syrup beneficial for Weight Loss.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 33,
+      "name": "Kutki Tablets",
+      "category": "Immunity",
+      "price": 420,
+      "description": "Herbal Kutki Tablets beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 34,
+      "name": "Punarnava Juice",
+      "category": "Digestion",
+      "price": 430,
+      "description": "Herbal Punarnava Juice beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 35,
+      "name": "Haritaki Powder",
+      "category": "Skin Care",
+      "price": 440,
+      "description": "Herbal Haritaki Powder beneficial for Skin Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 36,
+      "name": "Kaunch Beej",
+      "category": "Hair Care",
+      "price": 450,
+      "description": "Herbal Kaunch Beej beneficial for Hair Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 37,
+      "name": "Pippali Powder",
+      "category": "Detox",
+      "price": 460,
+      "description": "Herbal Pippali Powder beneficial for Detox.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 38,
+      "name": "Dashmool Tablets",
+      "category": "Energy",
+      "price": 470,
+      "description": "Herbal Dashmool Tablets beneficial for Energy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 39,
+      "name": "Vidanga Seeds",
+      "category": "Stress Relief",
+      "price": 480,
+      "description": "Herbal Vidanga Seeds beneficial for Stress Relief.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 40,
+      "name": "Nagkesar Powder",
+      "category": "Weight Loss",
+      "price": 490,
+      "description": "Herbal Nagkesar Powder beneficial for Weight Loss.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 41,
+      "name": "Rasna Root",
+      "category": "Immunity",
+      "price": 500,
+      "description": "Herbal Rasna Root beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 42,
+      "name": "Suranjan Tablets",
+      "category": "Digestion",
+      "price": 510,
+      "description": "Herbal Suranjan Tablets beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 43,
+      "name": "Yashtimadhu Powder",
+      "category": "Skin Care",
+      "price": 520,
+      "description": "Herbal Yashtimadhu Powder beneficial for Skin Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 44,
+      "name": "Musta Root",
+      "category": "Hair Care",
+      "price": 530,
+      "description": "Herbal Musta Root beneficial for Hair Care.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 45,
+      "name": "Daruharidra Powder",
+      "category": "Detox",
+      "price": 540,
+      "description": "Herbal Daruharidra Powder beneficial for Detox.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 46,
+      "name": "Chitrak Powder",
+      "category": "Energy",
+      "price": 550,
+      "description": "Herbal Chitrak Powder beneficial for Energy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 47,
+      "name": "Amalaki Rasayan",
+      "category": "Stress Relief",
+      "price": 560,
+      "description": "Herbal Amalaki Rasayan beneficial for Stress Relief.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 48,
+      "name": "Guduchi Tablets",
+      "category": "Weight Loss",
+      "price": 570,
+      "description": "Herbal Guduchi Tablets beneficial for Weight Loss.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 49,
+      "name": "Trikatu Churna",
+      "category": "Immunity",
+      "price": 580,
+      "description": "Herbal Trikatu Churna beneficial for Immunity.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 50,
+      "name": "Sitopaladi Churna",
+      "category": "Digestion",
+      "price": 590,
+      "description": "Herbal Sitopaladi Churna beneficial for Digestion.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
